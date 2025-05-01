@@ -11,10 +11,10 @@ Business Intelligence Tools (e.g., Tableau, Power BI), Data Cleaning & Transform
 # Business Analyst
 * I Led Agile ceremonies including daily stand-ups, sprint planning, and retrospectives to foster collaboration and transparency among cross-functional teams.
  Assessed, planned , implemented  and evaluated information system support  needs for business operation.
-* Developed workflow , Data collection , data analysis supported by existing software.
-   Utilized Agile principles to iterative refine solutions based on stakeholder feedback and changing business needs .Managed electronic medical records implementation projects in collaboration with  project managers and software vendors.
   
 # Data Analyst
-*I Collaborated with cross-functional consulting teams to analyze client data across sustainability, energy efficiency, and supply chain domains
 *Extracted and cleaned large datasets using SQL and Python (Pandas), ensuring 99% data accuracy and reliability for business case modeling.
 *Developed client-facing dashboards in Tableau and Power BI to visualize operational KPIs, and benchmarking reports
+
+<!--Section 2: List 3-4 Key Projects
+## MY PORTFOLIO
