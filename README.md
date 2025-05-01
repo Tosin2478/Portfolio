@@ -5,7 +5,7 @@ Hello! I'm Taiye Onifade , a data and business analyst with a passion for turnin
 
 
 <!--Mention your top / relevant skills here - core and soft skills-->
-Business Intelligence Tools (e.g., Tableau, Power BI), Data Cleaning & Transformation,Excel (Pivot Tables, VLOOKUP, Macros) , Programming in Python (Pandas, NumPy, Matplotlib, Seaborn), Database Management (e.g., MySQL, PostgreSQL), Critical Thinking & Problem-Solving, Collaboration & Teamwork
+Technical Skills: Python, SQL, Power BI, Excel, Jira
 
 ## Work Experince
 
@@ -15,7 +15,9 @@ Business Intelligence Tools (e.g., Tableau, Power BI), Data Cleaning & Transform
   
 * While working as a Data Analyst, i extracted and cleaned large datasets using SQL and Python (Pandas), ensuring 99% data accuracy and reliability for business case modeling and also developed client-facing dashboards in Tableau and Power BI to visualize operational KPIs, and benchmarking reports
 
-<!--Section 2: List 3-4 Key Projects
+
 ## MY PORTFOLIO
 
-* A Glimpse of some of the projects i 've been working on."
+* A Glimpse of some of the projects i 've been working on.
+** Sales Funnel Analysis: Analyzing sales funnel to optimize the Enrollment Process for LearnX, an e-Learning Platform.**
+  ![image]()
