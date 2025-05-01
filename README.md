@@ -7,14 +7,17 @@ Hello! I'm Taiye Onifade , a data and business analyst with a passion for turnin
 <!--Mention your top / relevant skills here - core and soft skills-->
 Business Intelligence Tools (e.g., Tableau, Power BI), Data Cleaning & Transformation,Excel (Pivot Tables, VLOOKUP, Macros) , Programming in Python (Pandas, NumPy, Matplotlib, Seaborn), Database Management (e.g., MySQL, PostgreSQL), Critical Thinking & Problem-Solving, Collaboration & Teamwork
 
-## WHAT I DO
-# Business Analyst
-* I Led Agile ceremonies including daily stand-ups, sprint planning, and retrospectives to foster collaboration and transparency among cross-functional teams.
- Assessed, planned , implemented  and evaluated information system support  needs for business operation.
+## Work Experince
+
+* As a Business Analyst, I Led Agile ceremonies including daily stand-ups, sprint planning, and retrospectives to foster collaboration and transparency among cross-functional teams.
+ Assessed, planned , implemented  and evaluated information system support  needs for business operation & Developed workflow , Data collection , data analysis supported by existing software.Utilized Agile principles to iterative refine solutions based on stakeholder feedback and changing business needs
+
   
-# Data Analyst
+**- Data Analyst**
 *Extracted and cleaned large datasets using SQL and Python (Pandas), ensuring 99% data accuracy and reliability for business case modeling.
 *Developed client-facing dashboards in Tableau and Power BI to visualize operational KPIs, and benchmarking reports
 
 <!--Section 2: List 3-4 Key Projects
 ## MY PORTFOLIO
+
+* A Glimpse of some of the projects i 've been working on."
