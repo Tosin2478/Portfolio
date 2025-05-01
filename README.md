@@ -13,9 +13,7 @@ Business Intelligence Tools (e.g., Tableau, Power BI), Data Cleaning & Transform
  Assessed, planned , implemented  and evaluated information system support  needs for business operation & Developed workflow , Data collection , data analysis supported by existing software.Utilized Agile principles to iterative refine solutions based on stakeholder feedback and changing business needs
 
   
-**- Data Analyst**
-*Extracted and cleaned large datasets using SQL and Python (Pandas), ensuring 99% data accuracy and reliability for business case modeling.
-*Developed client-facing dashboards in Tableau and Power BI to visualize operational KPIs, and benchmarking reports
+* While working as a Data Analyst, i extracted and cleaned large datasets using SQL and Python (Pandas), ensuring 99% data accuracy and reliability for business case modeling and also developed client-facing dashboards in Tableau and Power BI to visualize operational KPIs, and benchmarking reports
 
 <!--Section 2: List 3-4 Key Projects
 ## MY PORTFOLIO
