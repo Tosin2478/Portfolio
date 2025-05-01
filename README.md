@@ -16,8 +16,17 @@ Hello! I'm Taiye Onifade , a data and business analyst with a passion for turnin
 * While working as a Data Analyst, i extracted and cleaned large datasets using SQL and Python (Pandas), ensuring 99% data accuracy and reliability for business case modeling and also developed client-facing dashboards in Tableau and Power BI to visualize operational KPIs, and benchmarking reports
 
 
-## MY PORTFOLIO
+## MY PROJECTS
 
 * A Glimpse of some of the projects i 've been working on.
 ** Sales Funnel Analysis: Analyzing sales funnel to optimize the Enrollment Process for LearnX, an e-Learning Platform.**
+  ![image]()
+
+**Customer Segmentation: Optimizing Retail Marketing Strategies through RFM-based Customer Segmentation.**
+  ![image]()
+  
+ **Sales Excellence in Style: Crafting a Cutting-Edge Performance Dashboard for StyleScape Fashion Mall.**
+ ![image]()
+ 
+ **Navigating the Digital Landscape: Enhancing Brand Reputation with Cutting-Edge Social Media Monitoring.**
   ![image]()
