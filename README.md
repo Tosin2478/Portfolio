@@ -5,7 +5,7 @@ Hello! I'm Taiye Onifade , a data and business analyst with a passion for turnin
 
 
 <!--Mention your top / relevant skills here - core and soft skills-->
-Technical Skills: Python, SQL, Power BI, Excel, Jira
+##Technical Skills: Python, SQL, Power BI, Excel, Jira
 
 ## Work Experince
 
